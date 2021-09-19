@@ -1,0 +1,123 @@
+:root {
+
+Shit
+
+}
+#loadInfoLHolder,
+#loadInfoRHolder,
+#loadEditrBtn,
+#loadGamNm,
+#loadTipsHolder, 
+#loadHeader,
+::-webkit-scrollbar,
+#curGameInfo,
+#seasonLabel,
+#timerIcon,
+#hudClassIcon,
+#challIcon,
+#ammoIcon,
+#voiceDisplay,
+.youNewDiv,
+#newsHolder,
+#mainLogo,
+#editorBtnM,
+#faceItIconM {
+    display: none;
+}
+
+.buttonO,
+.buttonPI,
+.buttonR,
+.buttonP,
+.buttonG,
+.buttonB {
+    border: 4px solid #001B7E!important;
+}
+
+.lC-cube,
+#lC-cont,
+#endAContainer,
+#aContainer {
+    visibility: hidden;
+}
+
+#menuPingIcon,
+#menuFPS,
+#pingIcon,
+#ingameFPS {
+    color: #001B7E !important;
+
+}
+
+.material-icons-outlined {
+color: #001B7E !important
+
+}
+
+
+Nice
+
+
+}
+
+
+#menuWindow {
+    border-radius: 12px;
+    border: #001B7E;
+    border-style: solid;
+
+}
+#menuWindow.dark,
+.selectorItem,
+.custContainer,
+.setHed,
+.setBodH {
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #001B7E;
+
+}
+
+.classCard,
+.skinCard,
+input:checked+.slider,
+.openCollection {
+    background-color: #001B7E!important;
+
+}
+
+.progressBarInner {
+    height: 100%;
+    background: #001B7E;!important;
+    border-radius: 3px
+}
+
+.selectedItem,
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #fff;
+
+}
+
+.settingsBtn {
+    border-style: solid;
+    border-color: #001B7E;
+    background-color: #fff0;
+    border-radius: 12px;
+
+}
+
+.leaderName,.leaderName span {
+    color: #001B7E!important;
+}
+
+#initLoader {
+    background-image: url('https://cdn.discordapp.com/attachments/604135527435862033/888189964737732618/afe54d5dc60cdf6615c71ac0065b4695.gif') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    pointer-events: all;
+    opacity: 0.9;
+}
+
+
